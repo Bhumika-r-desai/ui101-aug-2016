@@ -1,0 +1,5 @@
+1. Clone git repo in your local machine (https://github.com/hotdog1987/ui101-aug-2016.git)
+
+2. Add a file and name it index-<yourname>.html
+
+3. add your name in the title of the html file.

@@ -1,0 +1,17 @@
+1. git init - this will initialize the local git repo
+* this is only to be executed once at the start
+
+2. git status - to check the status of the local git repo
+
+3. git add <name of the file> - this will add files to the cache(temp memory of the git)
+* if there are more than one file then use (.) - git add .
+
+4. git commit -m "<some message for the files>" - this will put the files from cache to the local git repo
+
+5. git pull origin <branch name> - this will pull the code from the server (origin) repository
+
+6. git push origin <branch name> - this will push the code to the server (origin) repository
+
+
+7. git remote add origin <url of the server repo> - this will add a bridge connection between your local repo and server (origin) repo
+* this command is needed only when you need to establish a connection with the server. In our case, we dont need it.
